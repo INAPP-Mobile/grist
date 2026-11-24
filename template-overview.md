@@ -1,6 +1,6 @@
 # Deploy and Host
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/grist?utm_campaign=grist)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/grist-2?utm_campaign=grist)
 
 ![Grist spreadsheet with linked tables](https://raw.githubusercontent.com/INAPP-Mobile/grist/main/assets/grist-screenshot.png)
 
